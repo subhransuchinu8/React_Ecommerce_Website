@@ -1,7 +1,10 @@
 # About the project 
 This is an E-commerce website. Here all the data are dummy data and taken from the json-server.
 
-Features :
+![image](https://github.com/subhransuchinu8/React_Ecommerce_Website/assets/119065077/db537dbe-ddb7-4035-9058-0402d8115715)
+
+
+✨Features :
 - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
 - Secure Card Payments / Cash payments
 - Admin Panel - Add/Edit Orders. Add/Edit Products
@@ -9,7 +12,7 @@ Features :
 - Order Emails, Reset Password Emails
 - User Profile and user orders
 
-  Technical Details :
+Technical Details :
 - React 18 with Tailwind CSS
 - Redux Toolkit with Async Thunk
 - JSON-server for dummy data
