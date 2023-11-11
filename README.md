@@ -1,3 +1,20 @@
+# About the project 
+This is an E-commerce website. Here all the data are dummy data and taken from the json-server.
+
+Features :
+- Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
+- Secure Card Payments / Cash payments
+- Admin Panel - Add/Edit Orders. Add/Edit Products
+- Sorting, Filtering, and Pagination 
+- Order Emails, Reset Password Emails
+- User Profile and user orders
+
+  Technical Details :
+- React 18 with Tailwind CSS
+- Redux Toolkit with Async Thunk
+- JSON-server for dummy data
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
